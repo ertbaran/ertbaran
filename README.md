@@ -19,7 +19,6 @@
 ### Reach out to me:
 
 [<img  width="30" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
-[<img  width="30" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" align="left" />][instagram]
 
 |  ert.baran@gmail.com
 
