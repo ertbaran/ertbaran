@@ -20,7 +20,7 @@
 [<img  width="30" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" align="left" />][instagram]
 [<img  width="35" src="https://png2.cleanpng.com/sh/c1d427e11b62907ae4e0f1772a833bde/L0KzQYq3V8AyN51mfZH0aYP2gLBuTfNtcaEyeeR9LXLkfrL1gb1weJZze95ycHH1hH7wjfFobV5ritduLXPyfsXsjwQue5pxjtd7LXPvecG0gvFvaZ9mReZ7YX72gLL5hf51NZJyiJ95bnewc73wkPFzfF5rRadtMUm8Q7a5hPJiOGY5RqoBNUi5Q4O6UcU3OWo6T6U9Nki8SYe1kP5o/kisspng-clip-art-banana-openclipart-image-free-content-silver-clip-banana-transparent-amp-png-clipart-f-5d1993e2dba054.8658632315619573468996.png" align="left" />][gamebanana]
 
-& | ert.baran@gmail.com
+|  ert.baran@gmail.com
 
 <br/>
 <br/>
