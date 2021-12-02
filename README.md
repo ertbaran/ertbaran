@@ -3,6 +3,10 @@
 ### Hi there, I'm Ertugrul. :slightly_smiling_face:
 <br>
 
+<font color="lightgreen">Gaming :video_game: `| Work |` :computer: Books :book: </font>
+
+<br>
+
 ## Experiences:
 * Game Development with Unity `(Amateur)`
 * Android Development `(Amateur)`
@@ -10,8 +14,6 @@
 [Samples](https://gamebanana.com/members/submissions/sublog/1269128)
 
 <br>
-
-<font color="lightgreen">Gaming :video_game: `| Work |` :computer: Books :book: </font>
 
 <br/>
 
