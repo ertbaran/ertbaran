@@ -10,7 +10,7 @@
 
 <br>
 
-<font color="lightgreen">Gaming :video_game: `| Work` :computer: `|` Books :book: </font>
+<font color="lightgreen">Gaming :video_game: `| Work |` :computer: Books :book: </font>
 
 <br/>
 
