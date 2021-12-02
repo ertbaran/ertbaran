@@ -7,7 +7,7 @@
 * Game Development with Unity `(Amateur)`
 * Android Development `(Amateur)`
 * Counter Strike Map Design `(Professional)`
-[Gamebanana](https://gamebanana.com/members/submissions/sublog/1269128)
+[Samples](https://gamebanana.com/members/submissions/sublog/1269128)
 
 <br>
 
@@ -52,4 +52,4 @@
 
 [instagram]: https://www.instagram.com/ertbaran/
 [linkedin]: https://www.linkedin.com/in/ertbaran
-[Gamebanana]: https://gamebanana.com/members/submissions/sublog/1269128
+
