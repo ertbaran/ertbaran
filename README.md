@@ -15,7 +15,6 @@
 
 <br>
 
-<br/>
 
 ### Reach out to me:
 
@@ -24,7 +23,6 @@
 
 |  ert.baran@gmail.com
 
-<br/>
 <br/>
 <br/>
 
