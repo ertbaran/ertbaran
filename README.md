@@ -11,7 +11,7 @@
 * Game Development with Unity `(Amateur)`
 * Android Development `(Amateur)`
 * Counter Strike Map Design `(Professional)`
-[Samples](https://gamebanana.com/members/submissions/sublog/1269128)
+[Map Samples](https://gamebanana.com/members/submissions/sublog/1269128)
 
 <br>
 
