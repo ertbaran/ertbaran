@@ -44,7 +44,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=ertbaran&theme=radical"  >
 
 
-:bulb:  Most Used Languages
+:bulb:  Most Used Languages In Projects
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ertbaran&layout=compact" >
 
