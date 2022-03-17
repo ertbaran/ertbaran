@@ -12,7 +12,7 @@
 [Some games on Itch.io](https://ertbaran.itch.io) / [Other games on Github](https://github.com/ertbaran?tab=repositories&q=&type=public&language=c%23&sort=stargazers)
 <br><br> 
 * Android Development `(Amateur)`<br>
-[Sample](https://github.com/ertbaran/Android-Bootcamp-Projemsi)
+[Sample Project](https://github.com/ertbaran/Android-Bootcamp-Projemsi)
 <br><br> 
 * Counter Strike Map Design `(Professional)`<br>
 [Map Samples](https://gamebanana.com/members/submissions/sublog/1269128)
