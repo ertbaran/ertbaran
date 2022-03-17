@@ -9,7 +9,7 @@
 
 ## Experiences:
 * Game Development with Unity `(Amateur)` <br>
-[Some games on Itch.io](https://ertbaran.itch.io) / [Other games on Github](https://github.com/ertbaran?tab=repositories&q=&type=public&language=c%23&sort=stargazers)
+[Some games on Itch.io](https://ertbaran.itch.io) <br> [Other games on Github](https://github.com/ertbaran?tab=repositories&q=&type=public&language=c%23&sort=stargazers)
 <br><br> 
 * Android Development `(Amateur)`<br>
 [Sample Project](https://github.com/ertbaran/Android-Bootcamp-Projemsi)
