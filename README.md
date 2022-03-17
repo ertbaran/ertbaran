@@ -1,6 +1,6 @@
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/b41e1e27075137.5635f8edb514a.gif" align="right" width="500" height="300">
 
-### Hi there, I'm Ertugrul. :slightly_smiling_face:
+### Hi there, I'm Ertugrul Baran. :slightly_smiling_face:
 <br>
 
 <font color="lightgreen">Gaming :video_game: `| Work |` :computer: Books :book: </font>
@@ -8,7 +8,8 @@
 <br>
 
 ## Experiences:
-* Game Development with Unity `(Amateur)`
+* Game Development with Unity `(Amateur)` <br>
+[Some games on Itch.io](https://ertbaran.itch.io) / [Other games on Github](https://github.com/ertbaran?tab=repositories&q=&type=public&language=c%23&sort=stargazers)
 * Android Development `(Amateur)`
 * Counter Strike Map Design `(Professional)`
 [Map Samples](https://gamebanana.com/members/submissions/sublog/1269128)
