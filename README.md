@@ -78,6 +78,9 @@ You can play on Itch.io: [click](https://ertbaran.itch.io/ertbaran-stf) <p>
 
 <img src="https://github.com/ertbaran/ertbaran/blob/main/Images/STF3.jpg?raw=true" width="520" height="300">
 <p>
+  
+<img src="https://github.com/ertbaran/ertbaran/blob/main/Images/STF4.jpeg?raw=true" width="520" height="300">
+<p>
 
 ## Game to Tiplay Studio Appeal (Mobile) (in 2 days)
 
