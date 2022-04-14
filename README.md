@@ -120,8 +120,9 @@ You can download on Itch.io and play on Windows pc: [click](https://ertbaran.itc
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ertbaran&layout=compact">
 
+<br>
   
-### Reach out to me:
+### :telephone_receiver: Reach out to me:
 
 <img width="30" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />[Linked.In](https://www.linkedin.com/in/ertbaran/)  |  ert.baran@gmail.com
-
+<br/>
