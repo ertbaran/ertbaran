@@ -102,6 +102,9 @@ You can download on Itch.io and play on Windows pc: [click](https://ertbaran.itc
 <img src="https://github.com/ertbaran/ertbaran/blob/main/Images/PityOr3.jpg?raw=true" width="520" height="300">
 <p>
   
+<img src="https://github.com/ertbaran/ertbaran/blob/main/Images/PityOr4.jpg?raw=true" width="520" height="300">
+<p>
+  
 ### Reach out to me:
 
 [<img  width="30" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
