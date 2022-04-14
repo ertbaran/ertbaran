@@ -23,7 +23,7 @@
 
 <br>
 
-# Game Samples (To learn and practice.)
+# Game Samples *(to learn and practice)*
 <br>
 
 ## The K (Mobile)
