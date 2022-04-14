@@ -107,27 +107,21 @@ You can download on Itch.io and play on Windows pc: [click](https://ertbaran.itc
   
 <img src="https://github.com/ertbaran/ertbaran/blob/main/Images/PityOr4.jpg?raw=true" width="520" height="300">
 <p>
-  
-### Reach out to me:
-
-[<img  width="30" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
-
-|  ert.baran@gmail.com
-
 
 <br />
 
 
 :bulb: Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=ertbaran&theme=radical"  >
+<img src="https://github-readme-stats.vercel.app/api?username=ertbaran&theme=radical" >
 
 
 :bulb:  Most Used Languages In Github Projects
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ertbaran&layout=compact" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ertbaran&layout=compact">
 
+  
+### Reach out to me:
 
-[instagram]: https://www.instagram.com/ertbaran/
-[linkedin]: https://www.linkedin.com/in/ertbaran
+<img width="30" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />[Linked.In](https://www.linkedin.com/in/ertbaran/)  |  ert.baran@gmail.com
 
