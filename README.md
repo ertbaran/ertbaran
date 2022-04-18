@@ -27,7 +27,7 @@
 <br>
 
 ## The K (Mobile) ~2018
-
+Puzzle & Balance
 <p>
 <img src="https://github.com/ertbaran/ertbaran/blob/main/Images/The%20K1.jpg?raw=true" width="520" height="300">
 <p>
@@ -54,7 +54,7 @@
 <p>
 
 ## Bilmem Ne Dünya (Mobile) (Game Factory - United GameJam) (in 2 days) ~2020
-
+Click button to save world.
 <p>
 <img src="https://github.com/ertbaran/ertbaran/blob/main/Images/BilmemNeD%C3%BCnya1.jpg?raw=true" width="300" height="600">
 <p>
@@ -69,6 +69,7 @@
 <p>
 
 ## STF - Save That Family (Mobile) ~2020
+2D Topdown Shooter <p>
 You can play on Itch.io: [click](https://ertbaran.itch.io/ertbaran-stf) <p>
 <img src="https://github.com/ertbaran/ertbaran/blob/main/Images/STF1.jpg?raw=true" width="520" height="300">
 <p>
@@ -95,6 +96,7 @@ You can play on Itch.io: [click](https://ertbaran.itch.io/ertbaran-stf) <p>
 <br>
 
 ## Pity Or? (Mobile & Windows) ~2022
+Puzzle
 You can download on Itch.io and play on Windows pc: [click](https://ertbaran.itch.io/pity-or) <p>
 <img src="https://github.com/ertbaran/ertbaran/blob/main/Images/PityOr1.jpg?raw=true" width="520" height="300">
 <p>
