@@ -53,7 +53,7 @@ More details on [Itch.io](https://ertbaran.itch.io/pity-or) <p>
 <img src="https://github.com/ertbaran/ertbaran/blob/main/Images/Tiplay%20Ba%C5%9Fvuru%20Minigame3.jpg?raw=true" width="300" height="600">
 <br>
 
-  ## STF - Save That Family (Mobile) ~2020
+  ## STF - Save That Family (Mobile & Web) ~2020
 2D Topdown Shooter <p>
 You can play on Itch.io: [Click](https://ertbaran.itch.io/ertbaran-stf) 
 <p>
