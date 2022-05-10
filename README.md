@@ -70,7 +70,7 @@ You can play on Itch.io: [Click](https://ertbaran.itch.io/ertbaran-stf)
 <p>
 
   ## Bilmem Ne Dünya (Mobile) (Game Factory - United GameJam) (in 2 days) ~2020
-Click button to save world.
+Click button to save world. ("Evet" button is redirecting to the Tema sapling donation page)
 <p>
 <img src="https://github.com/ertbaran/ertbaran/blob/main/Images/BilmemNeD%C3%BCnya1.jpg?raw=true" width="300" height="600">
 <p>
