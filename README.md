@@ -1,6 +1,7 @@
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/b41e1e27075137.5635f8edb514a.gif" align="right" width="500" height="300">
 
-### Hi there, I'm Ertugrul Baran. :slightly_smiling_face:
+### 👋 Hi there ! 
+### 🙋‍♂️ I'm Ertugrul Baran. :slightly_smiling_face:
 <br>
 
 <font color="lightgreen">Gaming :video_game: `| Work |` :computer: Books :book: </font>
