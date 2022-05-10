@@ -27,8 +27,8 @@
 <br>
 
 ## Pity Or? (Mobile & Windows) ~2022
-Puzzle
-You can download on Itch.io and play on Windows pc: [Click](https://ertbaran.itch.io/pity-or) <p>
+Puzzle Game <p>
+More details on [Itch.io](https://ertbaran.itch.io/pity-or) <p>
 <img src="https://github.com/ertbaran/ertbaran/blob/main/Images/PityOr1.jpg?raw=true" width="520" height="300">
 <p>
 
