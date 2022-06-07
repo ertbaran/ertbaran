@@ -63,7 +63,7 @@ More details on [Itch.io](https://ertbaran.itch.io/pity-or) <p>
 <img src="https://github.com/ertbaran/ertbaran/blob/main/Images/PityOr4.jpg?raw=true" width="520" height="300">
 <p>
 
-  ## Game to Tiplay Studio Appeal (Mobile) (in 2 days) ~2021
+  ## Shoot Game (Mobile) (in 2 days) ~2021
 
 <p>
 <img src="https://github.com/ertbaran/ertbaran/blob/main/Images/Tiplay%20Ba%C5%9Fvuru%20Minigame1.jpg?raw=true" width="300" height="600">
