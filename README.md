@@ -30,7 +30,7 @@
 ## Roll N Grow (Android) ~2022
 Hyper-casual Game <br> 
 Our [Google Oyun ve Uygulama Akademisi](https://www.oyunveuygulamaakademisi.com/hakkimizda) Bootcamp Project<br> 
-More details on [Github Repository](https://github.com/ertbaran/Roll-N-Grow/blob/main/README.md)
+More details on [Github Repository](https://github.com/ertbaran/Roll-N-Grow)
 
 [Gameplay Video](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6941077294027329536?compact=1)
 
