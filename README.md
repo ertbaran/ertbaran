@@ -31,6 +31,9 @@
 Hyper-casual Game <br> 
 Our [Google Oyun ve Uygulama Akademisi](https://www.oyunveuygulamaakademisi.com/hakkimizda) Bootcamp Project<br> 
 More details on [Github Repository](https://github.com/ertbaran/Roll-N-Grow/blob/main/README.md)
+
+[Gameplay Video](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6941077294027329536?compact=1)
+
 <p>
 <img src="https://user-images.githubusercontent.com/35369764/172443676-78fb6805-f79f-40fc-84e7-00d328352ae8.png" width="320" height="680">
 <p>
