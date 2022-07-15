@@ -15,7 +15,7 @@
 
 ## Experiences:
 * __Game Development with Unity__ `(Amateur)` <br> 
-[Samples](https://github.com/ertbaran/ertbaran/blob/main/README.md#game-samples-to-learn-and-practice)<br><br>
+[Samples](https://github.com/ertbaran#game-samples-to-learn-and-practice)<br><br>
 * __Android Development__ `(Amateur)`<br>
 [Sample Project](https://github.com/ertbaran/Android-Bootcamp-Projemsi)
 <br><br> 
