@@ -20,7 +20,10 @@
 [Sample Project](https://github.com/ertbaran/Android-Bootcamp-Projemsi)
 <br><br> 
 * __Counter Strike Map Design__ `(Professional)`<br>
-[Map Samples](https://gamebanana.com/members/submissions/sublog/1269128)
+[Map Samples](https://gamebanana.com/members/submissions/sublog/1269128)<br><br>
+* __Desktop App Development__ `(Mid Level)`<br>
+[Published App: The Shutdown Timer(PC Auto Shutdowner)](https://apps.microsoft.com/store/detail/the-shutdown-timer/9NS4TLM4R8DP?hl=en-us&gl=us)<br>
+[Published App: Counting App - Stopwatch & Countdown](https://apps.microsoft.com/store/detail/counting-app-stopwatch-countdown/9N2317CH8CHB?hl=en-us&gl=us)
 
 <br>
 
@@ -101,7 +104,7 @@ You can play on Itch.io: [Click](https://ertbaran.itch.io/ertbaran-stf)
 <p>
 
   ## Bilmem Ne Dünya (Mobile) (Game Factory - United GameJam) (in 2 days) ~2020
-Click button to save world. ("Evet" button is redirecting to the Tema sapling donation page)
+Click button to save world. ("Evet" button is redirecting to the Tema Foundation's sapling donation page)
 <p>
 <img src="https://github.com/ertbaran/ertbaran/blob/main/Images/BilmemNeD%C3%BCnya1.jpg?raw=true" width="300" height="600">
 <p>
