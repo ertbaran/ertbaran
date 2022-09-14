@@ -30,7 +30,7 @@
 ## Roll N Grow (Android) ~2022
 Hyper-casual Game <br> 
 Our [Google Oyun ve Uygulama Akademisi](https://www.oyunveuygulamaakademisi.com/hakkimizda) Bootcamp Project<br> 
-More details on [Github Repository](https://github.com/ertbaran/Roll-N-Grow)
+Source code & details [Github Repository](https://github.com/ertbaran/Roll-N-Grow)
 
 [Gameplay Video](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6941077294027329536?compact=1)
 
@@ -52,7 +52,7 @@ More details on [Github Repository](https://github.com/ertbaran/Roll-N-Grow)
 <br>
 
   ## Level Up Cars Prototype (Mobile) (in 2 days) ~2022
-
+Source code & details on [Github Repository](https://github.com/ertbaran/Level-Up-Cars-Clone)
 <p>
 <img src="https://user-images.githubusercontent.com/35369764/189507976-4b13ea2f-ade5-4516-8014-467700346ad3.png" width="300" height="600">
 <p>
