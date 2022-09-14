@@ -4,7 +4,7 @@
 ### 🙋‍♂️ I'm Ertugrul Baran. :slightly_smiling_face:
 <br>
 
-<font color="lightgreen">Gaming :video_game: `| Work |` :computer: Books :book: </font>
+<font color="lightgreen">Gaming :video_game: `| Work |` :computer: `| Coding |` :computer: Books :book: </font>
 
 <br>
 
