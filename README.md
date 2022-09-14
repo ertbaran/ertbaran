@@ -33,7 +33,7 @@ Published App: [Counting App - Stopwatch & Countdown](https://apps.microsoft.com
 ## Roll N Grow (Android) ~2022
 Hyper-casual Game <br> 
 Our [Google Oyun ve Uygulama Akademisi](https://www.oyunveuygulamaakademisi.com/hakkimizda) Bootcamp Project<br> 
-Source code & details [Github Repository](https://github.com/ertbaran/Roll-N-Grow)
+Source code & details on [Github Repository](https://github.com/ertbaran/Roll-N-Grow)
 
 [Gameplay Video](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6941077294027329536?compact=1)
 
