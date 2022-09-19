@@ -39,7 +39,7 @@ More details on [Itch.io](https://ertbaran.itch.io/evlat-magaragamejam5) <p>
 <img src="https://img.itch.zone/aW1hZ2UvMTcwODEyMS8xMDA2MzcxNy5wbmc=/original/hmLAxJ.png" width="520" height="300">
 <p>
 
-<img src="https://img.itch.zone/aW1hZ2UvMTcwODEyMS8xMDA2NjQxMS5wbmc=/original/ricvjp.pnge" width="520" height="300">
+<img src="https://img.itch.zone/aW1hZ2UvMTcwODEyMS8xMDA2NjQxMS5wbmc=/original/ricvjp.png" width="520" height="300">
 <p>
   
 <img src="https://img.itch.zone/aW1hZ2UvMTcwODEyMS8xMDA2NjQxMi5wbmc=/original/oIRez3.png" width="520" height="300">
