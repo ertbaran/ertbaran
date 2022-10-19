@@ -75,8 +75,8 @@ Source code & details on [Github Repository](https://github.com/ertbaran/Level-U
 <img src="https://user-images.githubusercontent.com/35369764/189507976-4b13ea2f-ade5-4516-8014-467700346ad3.png" width="300" height="600">
 <p>
 
-## Pity Or? (Mobile & Windows) ~2022
-Puzzle (GameJam Project)<p>
+## Pity Or? (Windows & Mobile) ~2022
+Puzzle & Adventure (Mağara GameJam #4 Project)<p>
 More details on [Itch.io](https://ertbaran.itch.io/pity-or) <p>
 <img src="https://github.com/ertbaran/ertbaran/blob/main/Images/PityOr1.jpg?raw=true" width="520" height="300">
 <p>
