@@ -104,7 +104,7 @@ More details on [Itch.io](https://ertbaran.itch.io/pity-or) <p>
 
   ## STF - Save That Family (Mobile & Web) ~2020
 2D Topdown Shooter <p>
-You can play on Itch.io: [Click](https://ertbaran.itch.io/ertbaran-stf) 
+You can play on [Microsoft Store](https://www.microsoft.com/store/productId/9PH8KBH295LW) 
 <p>
 <img src="https://github.com/ertbaran/ertbaran/blob/main/Images/STF1.jpg?raw=true" width="520" height="300">
 <p>
