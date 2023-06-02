@@ -23,8 +23,8 @@
 [Map Samples](https://gamebanana.com/members/submissions/sublog/1269128)<br><br>
 * __Desktop App Development__ `(Mid Level)`<br>
 
-Published App: [The Shutdown Timer ](https://apps.microsoft.com/store/detail/the-shutdown-timer/9NS4TLM4R8DP?hl=en-us&gl=us) __(WinForms)__ | *(Auto pc shutdowner app)*<br>
-Published App: [The Shutdown Timer Pro](https://www.microsoft.com/store/productId/9N1VKWTDKKSD) __(WPF)__ | *(Auto pc shutdowner app)*<br><br>
+Published App: [The Shutdown Timer Pro](https://www.microsoft.com/store/productId/9N1VKWTDKKSD) __(WPF)__ | *(Auto pc shutdowner app)*<br>
+Published App: [The Shutdown Timer ](https://www.microsoft.com/store/productId/9NS4TLM4R8DP) __(WinForms)__ | *(Auto pc shutdowner app)*<br>
 Published App: [Counting App - Stopwatch & Countdown](https://apps.microsoft.com/store/detail/counting-app-stopwatch-countdown/9N2317CH8CHB?hl=en-us&gl=us)
 
 <br>
