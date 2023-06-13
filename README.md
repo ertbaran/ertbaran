@@ -127,7 +127,6 @@ You can play on [Microsoft Store](https://www.microsoft.com/store/productId/9PH8
   ## Bilmem Ne Dünya (Mobile) (in 2 days) ~2020
 (Game Factory - United GameJam)<p>
 APK: https://drive.google.com/file/d/1gGRRkjygX8j24TnHVTXxgjlHYccinyDR/view?usp=share_link
-Click button to save world. 
 <p>
 <img src="https://github.com/ertbaran/ertbaran/blob/main/Images/BilmemNeD%C3%BCnya1.jpg?raw=true" width="300" height="600">
 <p>
