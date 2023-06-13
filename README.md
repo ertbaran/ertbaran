@@ -6,29 +6,23 @@
 
 <font color="lightgreen">Gaming :video_game: `| Work |` :computer: `| Coding |` :computer: Books :book: </font>
 
-<br>
-
-##### ```Favorite Languages:``` <p><p> <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" width="25" height="25" /> <img align="middle" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" width="25" height="25" />
-
-<br/>
-<p/>
-
 ## Experiences:
 * __Game Development with Unity__ <br> 
-[Samples](https://github.com/ertbaran#game-samples-to-learn-and-practice)<br><br>
+[Samples](https://github.com/ertbaran#game-samples-to-learn-and-practice)<br>
 * __Android Development__<br>
-[Sample Project](https://github.com/ertbaran/Android-Bootcamp-Projemsi)
-<br><br> 
+[Sample Project](https://github.com/ertbaran/Android-Bootcamp-Projemsi)<br>
 * __Counter Strike Map Design__<br>
-[Map Samples](https://gamebanana.com/members/submissions/sublog/1269128)<br><br>
-* __Desktop App Development__<br>
+[Map Samples](https://gamebanana.com/members/submissions/sublog/1269128)<br><p>
+* __Desktop App Development__ [](https://apps.microsoft.com/store/search?hl=tr-tr&gl=tr&publisher=ertbaran)
 
+  
+  `(Published Samples)`
+  
 1. [The Shutdown Timer Pro](https://www.microsoft.com/store/productId/9N1VKWTDKKSD) __(WPF)__ | *(Auto pc shutdowner app)*<br>
 2. [The Shutdown Timer ](https://www.microsoft.com/store/productId/9NS4TLM4R8DP) __(WinForms)__ | *(Auto pc shutdowner app)*<br>
 3. [Counting App - Stopwatch & Countdown](https://apps.microsoft.com/store/detail/counting-app-stopwatch-countdown/9N2317CH8CHB?hl=en-us&gl=us) __(WinForms)__
 <p>
 
-[![Foo](https://github.com/ertbaran/ertbaran/assets/35369764/09261747-4af9-47db-afad-e1a1c4d77796)](https://apps.microsoft.com/store/search?hl=tr-tr&gl=tr&publisher=ertbaran)
 
 <p>
 <br>
@@ -76,7 +70,7 @@ APK: https://drive.google.com/file/d/1UgpNvdWEs8Krv5lVFcBLkT0mDkLm00xC/view?usp=
 <p>
 <br>
 
-  ## Level Up Cars Prototype (Mobile) (in 2 days) ~2022
+  ## Level Up Cars Prototype (Mobile) ~2022
 Source code & details on [Github Repository](https://github.com/ertbaran/Level-Up-Cars-Clone)
 <p>
 <img src="https://user-images.githubusercontent.com/35369764/189507976-4b13ea2f-ade5-4516-8014-467700346ad3.png" width="300" height="600">
