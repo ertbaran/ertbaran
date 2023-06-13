@@ -49,7 +49,7 @@ More details on [Itch.io](https://ertbaran.itch.io/evlat-magaragamejam5) <p>
 Hyper-casual Game <br>
 [Google Oyun ve Uygulama Akademisi](https://www.oyunveuygulamaakademisi.com/hakkimizda) Bootcamp Team Project<br> 
 Source code & details on [Github Repository](https://github.com/ertbaran/Roll-N-Grow_BootcampMobileGame)<p>
-APK: https://drive.google.com/file/d/1UgpNvdWEs8Krv5lVFcBLkT0mDkLm00xC/view?usp=share_link<p>
+[APK](https://drive.google.com/file/d/1UgpNvdWEs8Krv5lVFcBLkT0mDkLm00xC/view?usp=share_link) <p>
 
 [Gameplay Video](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6941077294027329536?compact=1)
 
@@ -78,7 +78,7 @@ Source code & details on [Github Repository](https://github.com/ertbaran/Level-U
 
 ## Pity Or? (Windows & Mobile) ~2022
 Puzzle & Adventure (Mağara GameJam #4 Project)<p>
-More details on [Itch.io](https://ertbaran.itch.io/pity-or) <p>
+[Itch.io](https://ertbaran.itch.io/pity-or) <p>
 <img src="https://github.com/ertbaran/ertbaran/blob/main/Images/PityOr1.jpg?raw=true" width="520" height="300">
 <p>
 
@@ -92,7 +92,7 @@ More details on [Itch.io](https://ertbaran.itch.io/pity-or) <p>
 <p>
 
   ## Shoot Game (Mobile) (in 2 days) ~2021<p>
-APK: https://drive.google.com/file/d/1UgpNvdWEs8Krv5lVFcBLkT0mDkLm00xC/view?usp=share_link
+[APK](https://drive.google.com/file/d/1UgpNvdWEs8Krv5lVFcBLkT0mDkLm00xC/view?usp=share_link)
 <p>
 <img src="https://github.com/ertbaran/ertbaran/blob/main/Images/Tiplay%20Ba%C5%9Fvuru%20Minigame1.jpg?raw=true" width="300" height="600">
 <p>
@@ -105,7 +105,7 @@ APK: https://drive.google.com/file/d/1UgpNvdWEs8Krv5lVFcBLkT0mDkLm00xC/view?usp=
 
   ## STF - Save That Family (Desktop & Mobile & Web) ~2020
 2D Topdown Shooter <p>
-You can play on [Microsoft Store](https://www.microsoft.com/store/productId/9PH8KBH295LW) 
+Test on [Microsoft Store](https://www.microsoft.com/store/productId/9PH8KBH295LW) 
 <p>
 <img src="https://github.com/ertbaran/ertbaran/assets/35369764/e329d9b6-8894-458d-9621-698fda88c432" width="520" height="300">
 <p>
@@ -126,7 +126,7 @@ You can play on [Microsoft Store](https://www.microsoft.com/store/productId/9PH8
 
   ## Bilmem Ne Dünya (Mobile) (in 2 days) ~2020
 (Game Factory - United GameJam)<p>
-APK: https://drive.google.com/file/d/1gGRRkjygX8j24TnHVTXxgjlHYccinyDR/view?usp=share_link
+[APK](https://drive.google.com/file/d/1gGRRkjygX8j24TnHVTXxgjlHYccinyDR/view?usp=share_link)
 <p>
 <img src="https://github.com/ertbaran/ertbaran/blob/main/Images/BilmemNeD%C3%BCnya1.jpg?raw=true" width="300" height="600">
 <p>
@@ -141,7 +141,7 @@ APK: https://drive.google.com/file/d/1gGRRkjygX8j24TnHVTXxgjlHYccinyDR/view?usp=
 <p>
   
   ## LaKosh (Mobile) ~2019<p>
-APK: https://drive.google.com/file/d/17kty7cmF9mnEJtG5OSDtKYRwvqZZ-aw5/view?usp=share_link
+[APK](https://drive.google.com/file/d/17kty7cmF9mnEJtG5OSDtKYRwvqZZ-aw5/view?usp=share_link)
 <p>
 <img src="https://github.com/ertbaran/ertbaran/blob/main/Images/LaKosh1.jpg?raw=true" width="300" height="600">
 <p>
@@ -154,7 +154,7 @@ APK: https://drive.google.com/file/d/17kty7cmF9mnEJtG5OSDtKYRwvqZZ-aw5/view?usp=
   
 ## The K (Mobile) ~2018
 Puzzle & Balance<p>
-APK: https://drive.google.com/file/d/1dcu5536CoWpK54ML1Qqh7ILofCrxjKce/view?usp=share_link
+[APK](https://drive.google.com/file/d/1dcu5536CoWpK54ML1Qqh7ILofCrxjKce/view?usp=share_link)
 <p>
 <img src="https://github.com/ertbaran/ertbaran/blob/main/Images/The%20K1.jpg?raw=true" width="520" height="300">
 <p>
