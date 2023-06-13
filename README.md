@@ -14,14 +14,14 @@
 <p/>
 
 ## Experiences:
-* __Game Development with Unity__ `(Mid Level)` <br> 
+* __Game Development with Unity__ <br> 
 [Samples](https://github.com/ertbaran#game-samples-to-learn-and-practice)<br><br>
-* __Android Development__ `(Amateur)`<br>
+* __Android Development__`<br>
 [Sample Project](https://github.com/ertbaran/Android-Bootcamp-Projemsi)
 <br><br> 
 * __Counter Strike Map Design__ `(Professional)`<br>
 [Map Samples](https://gamebanana.com/members/submissions/sublog/1269128)<br><br>
-* __Desktop App Development__ `(Mid Level)`<br>
+* __Desktop App Development__<br>
 
 1. [The Shutdown Timer Pro](https://www.microsoft.com/store/productId/9N1VKWTDKKSD) __(WPF)__ | *(Auto pc shutdowner app)*<br>
 2. [The Shutdown Timer ](https://www.microsoft.com/store/productId/9NS4TLM4R8DP) __(WinForms)__ | *(Auto pc shutdowner app)*<br>
