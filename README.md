@@ -47,7 +47,7 @@ More details on [Itch.io](https://ertbaran.itch.io/evlat-magaragamejam5) <p>
 
 ## Roll N Grow (Android) ~2022
 Hyper-casual Game <br>
-Our [Google Oyun ve Uygulama Akademisi](https://www.oyunveuygulamaakademisi.com/hakkimizda) Bootcamp Project<br> 
+[Google Oyun ve Uygulama Akademisi](https://www.oyunveuygulamaakademisi.com/hakkimizda) Bootcamp Team Project<br> 
 Source code & details on [Github Repository](https://github.com/ertbaran/Roll-N-Grow_BootcampMobileGame)<p>
 APK: https://drive.google.com/file/d/1UgpNvdWEs8Krv5lVFcBLkT0mDkLm00xC/view?usp=share_link<p>
 
