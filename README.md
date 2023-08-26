@@ -1,5 +1,3 @@
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/b41e1e27075137.5635f8edb514a.gif" align="right" width="500" height="300">
-
 ### 👋 Hi there ! 
 ### 🙋‍♂️ I'm Ertugrul Baran. :slightly_smiling_face:
 <br>
@@ -104,24 +102,30 @@ Puzzle & Adventure (Mağara GameJam #4 Project)<p>
 <br>
 
   ## STF - Save That Family (Desktop & Mobile & Web) ~2020
-2D Topdown Shooter <p>
-Test on [Microsoft Store](https://www.microsoft.com/store/productId/9PH8KBH295LW) 
 <p>
-<img src="https://github.com/ertbaran/ertbaran/assets/35369764/e329d9b6-8894-458d-9621-698fda88c432" width="520" height="300">
+  
+[Microsoft Store Page](https://www.microsoft.com/store/productId/9PH8KBH295LW) <p>
+
+[GAMEPLAY VIDEO](https://youtu.be/_WyZpcZNKVk?feature=shared)
+
+<p>
+  
+<img src="https://github.com/ertbaran/ertbaran/assets/35369764/46cf3509-492d-44de-9462-599e84a7287b" width="520" height="300">
+<p>
+  
+<img src="https://github.com/ertbaran/ertbaran/assets/35369764/e4aced59-227f-4b7c-bb08-6da54ee4afeb" width="520" height="300">
 <p>
 
-<img src="https://github.com/ertbaran/ertbaran/assets/35369764/58278d5a-a452-4ba3-8bfd-e365a2c06019" width="520" height="300">
+<img src="https://github.com/ertbaran/ertbaran/assets/35369764/6c761bb0-0491-464e-85e1-d9c78a64e24c" width="520" height="300">
 <p>
 
-<img src="https://github.com/ertbaran/ertbaran/assets/35369764/8b0ba9ae-350b-41d9-bac1-4b5e70847895" width="520" height="300">
+<img src="https://github.com/ertbaran/ertbaran/assets/35369764/b0636c47-6180-4445-a141-c487d4b0831d" width="520" height="300">
 <p>
 
-<img src="https://github.com/ertbaran/ertbaran/assets/35369764/ae41695c-eba3-4f4f-94ee-ec2ebe116326" width="520" height="300">
+<img src="https://github.com/ertbaran/ertbaran/assets/35369764/21d8f61a-84b5-4463-be99-90f652d3e41d" width="520" height="300">
 <p>
 
 
-<img src="https://github.com/ertbaran/ertbaran/assets/35369764/62267a3e-4397-42a2-ab8f-ea5d5c6d1026" width="520" height="300">
-<p>
 
 
   ## Bilmem Ne Dünya (Mobile) (in 2 days) ~2020
