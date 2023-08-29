@@ -90,7 +90,7 @@ Puzzle & Adventure (Mağara GameJam #4 Project)<p>
 <p>
 
   ## Shoot Game (Mobile) (in 2 days) ~2021<p>
-[APK](https://drive.google.com/file/d/1UgpNvdWEs8Krv5lVFcBLkT0mDkLm00xC/view?usp=share_link)
+[APK](https://drive.google.com/file/d/1Xqd-I5Vt3UNslt3FPcB8gefL2_fh-Ddy/view?usp=sharing)
 <p>
 <img src="https://github.com/ertbaran/ertbaran/blob/main/Images/Tiplay%20Ba%C5%9Fvuru%20Minigame1.jpg?raw=true" width="300" height="600">
 <p>
