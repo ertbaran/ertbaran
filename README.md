@@ -104,7 +104,9 @@ Puzzle & Adventure (Mağara GameJam #4 Project)<p>
   ## STF - Save That Family (Desktop & Mobile & Web) ~2020
 <p>
   
+[Play Store Page](https://play.google.com/store/apps/details?id=com.ertbaran.STF) <p>
 [Microsoft Store Page](https://www.microsoft.com/store/productId/9PH8KBH295LW) <p>
+
 
 [GAMEPLAY VIDEO](https://youtu.be/_WyZpcZNKVk?feature=shared)
 
