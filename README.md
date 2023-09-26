@@ -23,9 +23,7 @@
 5. [Save That Family (Microsoft Store)](https://www.microsoft.com/store/productId/9PH8KBH295LW) __(Windows Game)__ <p>
 <p>
 
-### PORTFOLIO PAGE
-
-https://ertbaran.github.io/portfolio/games
+###  PORTFOLIO PAGE: [ertbaran.github.io/portfolio/games](https://ertbaran.github.io/portfolio/games)
 
 <p>
 <br>
