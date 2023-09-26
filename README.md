@@ -24,7 +24,9 @@
 <p>
 
 ### PORTFOLIO PAGE
-<a href="ertbaran.github.io/portfolio/games"></a>
+
+<a href="https://ertbaran.github.io/portfolio/games"></a>
+
 <p>
 <br>
 
