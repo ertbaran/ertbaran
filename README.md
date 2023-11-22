@@ -41,7 +41,7 @@
 <p>
 Story Based Puzzle-Action Game<p>
   
-[Video](https://www.youtube.com/watch?v=WsV6uz47cM8) <p>
+[Video](https://youtu.be/x9uPgTrdXD8) <p>
 <img src="https://github.com/ertbaran/ertbaran/assets/35369764/bbe5feb4-55bc-4ef6-b5ce-ee6c26bfa605" width="520" height="300">
 <p>
   
