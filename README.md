@@ -33,6 +33,30 @@
 # Game Samples *(to learn and practice)*
 <br>
 
+## The K: A Strange World (Mobile) (Work In Progress) ~2023
+<p>
+Story Based Puzzle-Action Game<p>
+  
+[Video](https://www.youtube.com/watch?v=WsV6uz47cM8) <p>
+<img src="https://github.com/ertbaran/ertbaran/assets/35369764/bbe5feb4-55bc-4ef6-b5ce-ee6c26bfa605" width="520" height="300">
+<p>
+  
+<img src="https://github.com/ertbaran/ertbaran/assets/35369764/00fdd349-871d-45c1-b0da-8c8fe25d8032" width="520" height="300">
+<p>
+
+<img src="https://github.com/ertbaran/ertbaran/assets/35369764/378ddf7d-d2b9-4716-9bca-114ad761207b" width="520" height="300">
+<p>
+
+<img src="https://github.com/ertbaran/ertbaran/assets/35369764/59c8ef37-211f-483d-9b45-bb2f6285ebdf" width="520" height="300">
+<p>
+  
+<img src="https://github.com/ertbaran/ertbaran/assets/35369764/9e7dd069-7221-473b-a617-d2262aefab14" width="520" height="300">
+<p>
+
+<img src="https://github.com/ertbaran/ertbaran/assets/35369764/612b33c3-e5c1-4811-97db-6a6f7bd0f9d4" width="520" height="300">
+<p>
+
+
 ## Evlat? (Windows) ~2022
 (Magara GameJam #5 - In 72 hours)<p>
 More details on [Itch.io](https://ertbaran.itch.io/evlat-magaragamejam5) <p>
