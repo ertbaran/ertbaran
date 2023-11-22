@@ -33,7 +33,7 @@
 # Game Samples *(to learn and practice)*
 <br>
 
-## The K: A Strange World (Mobile) (Work In Progress) ~2023
+## The K: A Strange World (Mobile)/Work In Progress ~2023
 <p>
 Story Based Puzzle-Action Game<p>
   
